@@ -1,8 +1,8 @@
 {
-  "name": "bitwasp/bitcoin",
+  "name": "romankosoj/bitcoin",
   "description": "PHP Bitcoin library with functions for transactions, signatures, serialization, Random/Deterministic ECDSA keys, blocks, RPC bindings",
   "type": "library",
-  "homepage": "https://github.com/Bit-Wasp/bitcoin-php",
+  "homepage": "https://github.com/romankosoj/bitcoin-php",
   "license": "Unlicense",
   "authors": [
     {
